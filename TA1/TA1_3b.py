@@ -10,5 +10,3 @@ while i <= count:
 
     print()
     i += 1
-
- 

@@ -20,5 +20,3 @@ print("Vowels: ", vowels_count)
 print("Consonants: ", consonants_count)    
 print("Space: ", space_count)  
 print("Other characters: ", others_count)
-
-

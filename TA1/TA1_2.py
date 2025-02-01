@@ -7,3 +7,4 @@ for char in user_input:
         digit_sum += int(char)
     
 print("Sum of Digits: ", digit_sum)
+
